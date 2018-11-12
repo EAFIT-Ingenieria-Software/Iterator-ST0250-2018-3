@@ -18,7 +18,7 @@ definir en la interfaz Iterador son:}
 necesario conocer la estructura interna de la misma.
 
 ## 4. Modelo de Clases o Secuencia del Ejemplo
->![Iterator Pattern UML Diagram](https://www.tutorialspoint.com/design_pattern/images/iterator_pattern_uml_diagram.jpg)
+>![Iterator.png](https://github.com/omontoy/softwareExposition/blob/master/Iterator.png?raw=true)
 ## 5. Lenguaje de programación del patrón
 >Java
 
