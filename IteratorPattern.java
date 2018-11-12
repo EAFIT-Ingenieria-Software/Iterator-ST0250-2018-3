@@ -1,3 +1,8 @@
+/*
+Usa la clase NameRepository para obtener Iterator 
+e imprimir los nombres.
+*/
+
 public class IteratorPattern {
   
    public static void main(String[] args) {
