@@ -28,8 +28,8 @@ necesario conocer la estructura interna de la misma.
 >IteratorPattern, nuestra clase de demostración utilizará NamesRepository, una implementación de clase concreta para imprimir los Nombres almacenados como una colección en NamesRepository.
 
 ## 7. Sitios web  consultados
->[Patrón Iterator](http://patronesdediseno.blogspot.com/2009/05/patroniterator.html)
+>[Iterator Pattern Video](https://www.youtube.com/watch?v=W757aTqM4zo)
 
->[Iterator](http://migranitodejava.blogspot.com/2011/06/iterator.html)
+>[Iterator](http://arantxa.ii.uam.es/~eguerra/docencia/0708/03%20Iterator.pdf)
 
->[Iterator Pattern](https://www.tutorialspoint.com/design_pattern/iterator_pattern.htm)
+>[Iterator Pattern](https://programacion.net/articulo/patrones_de_diseno_xvii_patrones_de_comportamiento_iterator_1020)
