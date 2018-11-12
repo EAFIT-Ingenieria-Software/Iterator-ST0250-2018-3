@@ -6,7 +6,9 @@ la interfaz Iterator.
 */
 
 public class NameRepository implements Container {
-   public String names[] = {"Laura - eafit-201710076010" , "Manuela - eafit-201710044010" ,"Orlando - omontoy"};
+   public String names[] = {"Laura - eafit-201710076010", 
+                            "Manuela - eafit-201710044010",
+                            "Orlando - omontoy"};
 
    @Override
    public Iterator getIterator() {
